@@ -8,6 +8,8 @@
 
    我这里使用的是 ` 98.0.1108.50 ` 
 
+   有能力的可以尝试把代码改成使用 `chrome` 浏览器的，`chrome` 会更方便一点。
+
 3. 下载 `edge` 浏览器的驱动
 
    下载链接 https://developer.microsoft.com/zh-cn/microsoft-edge/tools/webdriver/
@@ -31,4 +33,6 @@
    把运行过程中的日志信息输出到 `log.txt`，把错误信息输出到 `err.txt`，命令行输出的都是一些调试工具的信息，不用管。
 
    如果运行错误，可以尝试多运行几次。也可以改用 `pycharm` 运行。
+   
+7. 博客 [HUST疫情填报 | Luobuyu's Blog](https://www.luobuyu.ml/2022/hust-yqtb/) 
 
