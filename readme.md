@@ -1,7 +1,7 @@
 1. 使用 `pip` 命令安装依赖
    
    ``` bash
-   pip install require.txt
+   pip install -r requirement.txt
    ```
    
 2. 安装 `edge` 浏览器，注意安装的版本
